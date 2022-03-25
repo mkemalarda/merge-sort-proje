@@ -12,6 +12,6 @@
      
 2)Big-O gösterimini yazınız.       
 
-Big-O  
-O(nlogn)       
+      Big-O  
+      O(nlogn)       
        
