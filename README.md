@@ -17,6 +17,7 @@
      [11,16,21]       [8,12,22]
      
 2)Big-O gösterimini yazınız.       
+
 Big-O  
 O(nlogn)       
        
